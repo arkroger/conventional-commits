@@ -6,7 +6,7 @@ npm install -g @commitlint/config-conventional @commitlint/cli
 
 echo "module.exports = {extends: ['@commitlint/config-conventional']}" > commitlint.config.js
 echo "module.exports = {extends: ['@commitlint/config-angular']};" > commitlint.config.js
-echo "module.exports = {extends: ['@digitalroute/cz-conventional-changelog-for-jira']};" > commitlint.config.js
+//echo "module.exports = {extends: ['@digitalroute/cz-conventional-changelog-for-jira']};" > commitlint.config.js
 
 
 
@@ -23,7 +23,9 @@ husky add .husky/commit-msg 'npx commitlint --edit $1'
 npm install -g commitizen
 npm install -g @digitalroute/cz-conventional-changelog-for-jira
 //echo '{ "path": "cz-conventional-changelog" }' > ~/.czrc
-echo '{ "path": "@digitalroute/cz-conventional-changelog-for-jira" }' > ~/.czrc
+//echo '{ "path": "@digitalroute/cz-conventional-changelog-for-jira" }' > ~/.czrc
+
+TESTE
 
 
 
