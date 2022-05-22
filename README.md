@@ -14,4 +14,8 @@ npx commitlint --help
 
 npm install -g husky
 husky install
- husky add .husky/commit-msg 'npx commitlint --edit $1'
+husky add .husky/commit-msg 'npx commitlint --edit $1'
+
+npm install -g commitizen
+
+
