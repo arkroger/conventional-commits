@@ -17,5 +17,8 @@ husky install
 husky add .husky/commit-msg 'npx commitlint --edit $1'
 
 npm install -g commitizen
+echo '{ "path": "cz-conventional-changelog" }' > ~/.czrc
+
+TESTE
 
 
