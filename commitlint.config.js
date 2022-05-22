@@ -1,1 +1,1 @@
-module.exports = {extends: ['@commitlint/config-angular']};
+module.exports = {extends: ['@digitalroute/cz-conventional-changelog-for-jira']};
