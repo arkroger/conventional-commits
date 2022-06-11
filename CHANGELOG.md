@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/arkroger/conventional-commits/compare/v2.0.1...v2.1.0) (2022-06-11)
+
+
+### Features
+
+* **abc-1234:** new Feature ([ec92905](https://github.com/arkroger/conventional-commits/commit/ec92905b70b44e35ce399fc5b4b799d500479102))
+
 ### [2.0.1](https://github.com/arkroger/conventional-commits/compare/v2.0.0...v2.0.1) (2022-06-11)
 
 ## 2.0.0 (2022-06-11)
