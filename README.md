@@ -25,7 +25,10 @@ npm install -g @digitalroute/cz-conventional-changelog-for-jira
 //echo '{ "path": "cz-conventional-changelog" }' > ~/.czrc
 //echo '{ "path": "@digitalroute/cz-conventional-changelog-for-jira" }' > ~/.czrc
 
-TESTE
+
+# standard version
+npm install -g standard-version
+
 
 
 
