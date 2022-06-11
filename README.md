@@ -29,6 +29,8 @@ npm install -g @digitalroute/cz-conventional-changelog-for-jira
 # standard version
 npm install -g standard-version
 
+TESTE
+
 
 
 
